@@ -1,3 +1,6 @@
+About :
+We're transforming medical file, legal file and other important documents storage by solving security, privacy, and accessibility issues through a decentralized approach. Using blockchain, we prioritize user control, ensuring a secure and transparent experience for both patients and healthcare providers.
+
 Requirements : 
 1. Metamask must be installed in your browser to use this application.
 2. You Mush have some sepolia faucet to upload documents (you can get them for free from the below links : )
