@@ -11,8 +11,6 @@ Requirements :
 3. Node must be installed
 4. Hardhat must be installed
 
-Commands :
-
 # DocChain
 
 DocChain is a simple dApp where users can upload documents to IPFS and store the reference (hash) on the Ethereum blockchain.
